@@ -4,7 +4,7 @@ This repository contains an Excel-based Financial Due Diligence (FDD) mini-case 
 
 ## Key Technical Highlights
 
-The model demonstrates the precise execution of critical FDD mechanics. I established a true run-rate for the business by executing a normalization schedule that adds back a one-time 150 legal settlement and normalizes a 50 favorable operational variance, along with a 30 year-end timing adjustment. To protect the buyer's balance sheet at close, the model calculates a historical average Normalized Working Capital (NWC) peg. Furthermore, the net debt build extracts 50 in restricted cash to present an airtight view of the actual debt burden the buyer will assume.
+The model executes core Financial Due Diligence (FDD) mechanics with transaction-specific adjustments. A normalized run-rate is established through an EBITDA bridge that adds back a one-time 150 legal settlement, adjusts for a 50 favorable operational variance, and incorporates a 30 year-end timing adjustment to reflect sustainable earnings. To assess closing balance sheet requirements, the model derives a normalized working capital (NWC) peg using historical averages. Additionally, the net debt calculation excludes 50 of restricted cash to present an accurate view of the effective debt burden assumed by the buyer.
 
 ## Deal Insights
 
