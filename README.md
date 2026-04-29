@@ -8,4 +8,4 @@ The model executes core Financial Due Diligence (FDD) mechanics with transaction
 
 ## Deal Insights
 
-Analysis indicates a material working capital build in Q4, with closing NWC of 420 against a normalized peg of 324. This ~100 variance suggests potential cash retention or operational buildup prior to close. If not normalized, this would require a purchase price adjustment, directly impacting deal value.
+Analysis indicates a material working capital build in Q4, with closing NWC of 420 against a normalized peg of 324. If the elevated NWC is non-sustainable, it would likely be normalized to peg, resulting in a downward purchase price adjustment..
